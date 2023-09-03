@@ -1,4 +1,4 @@
-<h2> 🚩 DevLinks</h2>
+<h2> 🚩 Projeto do curso Discover da Rockeseat</h2>
 
 <h4>O DevLinks é um agregador de links para usar como cartão de visitas online.</h4>
 
@@ -12,7 +12,7 @@
 <p> Demonstração Desktop: </p>
 
 
-https://user-images.githubusercontent.com/115358694/236709227-604d49a4-263b-4fdf-b10e-e44f72aa0750.mp4
+
 
 
 
@@ -21,4 +21,4 @@ https://user-images.githubusercontent.com/115358694/236709227-604d49a4-263b-4fdf
 
 
 
-![Mobile-IMC](https://user-images.githubusercontent.com/115358694/236709239-c3de0749-765a-465b-bcb0-6844eb903b53.png)
+
