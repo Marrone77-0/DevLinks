@@ -1,6 +1,12 @@
-<h2> 🚩 Projeto do curso Discover da Rockeseat</h2>
+<h2> 🚩 Projeto do curso Discover</h2>
 
-<h4>O DevLinks é um agregador de links para usar como cartão de visitas online.</h4>
+<ul>
+  <li>O DevLinks é um agregador de links para usar como cartão de visitas online.</li>
+  <li>Conta com um modo Light e Dark.</li>
+</ul>
+
+<h4>🚀 Curso <a href="https://www.rocketseat.com.br/discover"> Discover </a></h4>
+
 
 <h4> 💻 Tecnologias:</h4>
 
@@ -11,6 +17,7 @@
 
 <p> Demonstração Desktop: </p>
 
+![versao-project-desktop](https://github.com/Marrone77-0/DevLinks/assets/115358694/c5ac1977-e6d0-466e-bad4-ab6e0c105e50)
 
 
 
@@ -18,6 +25,12 @@
 
 <p> Versão Mobile: </p>
 
+![versao-project-mobile](https://github.com/Marrone77-0/DevLinks/assets/115358694/b422d168-8d6a-4395-be14-904d0e0fa297)
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
 
 
 
